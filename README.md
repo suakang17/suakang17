@@ -13,9 +13,10 @@ Wishing what I develop makes world better. ✨
 ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
 <br/>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7Df1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+
+<!--![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)-->
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
@@ -26,6 +27,7 @@ Wishing what I develop makes world better. ✨
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://suakang17.github.io/)](https://suakang17.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkdtndk09@gmail.com)](mailto:rkdtndk09@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/수아-강-743682246)](www.linkedin.com/in/수아-강-743682246)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suakang17)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
