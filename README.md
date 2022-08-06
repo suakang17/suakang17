@@ -3,7 +3,7 @@
 
 ## 👋 Hey ! 
 Currently studying at Pusan Nat'l Univ.<br/>
-Wishing what I develop makes world better. ✨
+Wish what I develop makes world better. ✨
 
 ## 💪Skills
 ### Platforms & Languages
