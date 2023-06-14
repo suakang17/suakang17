@@ -2,15 +2,13 @@
 <div align="center">
 
 ## 👋 Hey ! 
-Currently studying at Pusan Nat'l Univ.<br/>
-Wish what I develop makes world better. ✨
+Hi! I'm software developer always try my best to improve.
 
 ## 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![NodeJs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7Df1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=black")
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 <!--![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
