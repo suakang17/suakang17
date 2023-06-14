@@ -2,7 +2,7 @@
 <div align="center">
 
 ## 👋 Hey ! 
-Hi! I'm software developer always try my best to improve.
+Hi! I'm software developer always trying my best to improve.
 
 ## 💪Skills
 ### Platforms & Languages
