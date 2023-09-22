@@ -1,5 +1,5 @@
 #### 👋 Hey ! 
-##### currently studying
+##### Currently studying
 Java / Spring , OOP <br>
 
 #### 💪Skills
