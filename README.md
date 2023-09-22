@@ -1,5 +1,6 @@
 #### 👋 Hey ! 
-Hi! I'm software developer always trying my best to improve.
+##### currently studying
+Java / Spring , OOP <br>
 
 #### 💪Skills
 ##### Platforms & Languages
