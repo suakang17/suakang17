@@ -1,5 +1,6 @@
 ## 👋 Hi There! 
 ### 💪 Career & Activity
+- SmileGate Holdings Digital Workplace Platform Team BE Engineer (Apr.2024 ~)
 - SmileGate DevCamp 5th (Dec.2023 ~ Feb.2024)
 - SSAFY (Samsung Software Academy for Youth) 10th (Jul.2023 ~ Dec.2023)
 - UMC PNU: Server Track Member (Mar.2022 ~)
