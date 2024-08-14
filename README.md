@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=MSSQL&logoColor=white">
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=MSSQL&logoColor=white">
 
  
 ### 📫 Contacts
