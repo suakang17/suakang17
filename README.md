@@ -5,12 +5,14 @@
 - SSAFY (Samsung Software Academy for Youth) 10th (Jul.2023 ~ Dec.2023)
 - UMC PNU: Server Track Member (Mar.2022 ~)
 - Project Busan: Member (Jan.2022 ~)
-- GDSC PNU: Member (Sep.2021 ~)
+- GDSC (Google Developer Students Club) PNU: Member (Sep.2021 ~)
  
 ### 🔧 Usually Use
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=MSSQL&logoColor=white">
+
  
 ### 📫 Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://suakang17.github.io/)](https://suakang17.github.io/)
