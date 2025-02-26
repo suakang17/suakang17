@@ -1,11 +1,14 @@
-## 👋 Hi There! 
-### 💪 Career & Activity
-- SmileGate Holdings Digital Workplace Platform Team BE Engineer (Apr.2024 ~)
-- SmileGate DevCamp 5th (Dec.2023 ~ Feb.2024)
-- SSAFY (Samsung Software Academy for Youth) 10th (Jul.2023 ~ Dec.2023)
-- UMC PNU: Server Track Member (Mar.2022 ~)
-- Project Busan: Member (Jan.2022 ~)
-- GDSC (Google Developer Students Club) PNU: Member (Sep.2021 ~)
+# 강수아
+## 백엔드 개발
+### 경력
+- 스마일게이트홀딩스 DWP개발팀 BE 개발 (2024.04 ~)
+
+### 경험
+- SmileGate DevCamp 5th (2023.12 ~ 2024.02)
+- SSAFY (삼성청년소프트웨어아카데미) 10th (2023.07 ~ 2023.12)
+- UMC PNU: Server Track Member (2022.03 ~ 2023.02)
+- Project Busan: Member (2022.01 ~ 2023.06)
+- GDSC (Google Developer Students Club) PNU: Member (2021.09 ~ 2022.02)
  
 ### 🔧 Usually Use
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
